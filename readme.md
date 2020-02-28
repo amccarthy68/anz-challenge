@@ -1,6 +1,6 @@
 # Automated Pipeline
 
-This automated pipeline uses terraform, python and SQL and is automatically deployed from the command line to initiayte the whole pipeline and its required services.
+This automated pipeline uses terraform, python and SQL and is automatically deployed from the command line to initiate the whole pipeline and its required services.
 
 ## Installataion
 
