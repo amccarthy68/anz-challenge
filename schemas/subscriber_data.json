@@ -1,0 +1,39 @@
+[
+ {
+   "description": "Number of Mobile Subscriber",
+   "name": "modileNum",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+ },
+ {
+   "description": "URL Accessed over the phone",
+   "name": "url",
+   "type": "STRING",
+   "mode": "NULLABLE"
+ },
+  {
+   "description": "Session Start Time yyyy-MM-dd HH:mm:ss",
+   "name": "SessionStartTime",
+   "type": "TIMESTAMP",
+   "mode": "NULLABLE"
+ },
+ {
+  "description": "Session End Time yyyy-MM-dd HH:mm:ss",
+  "name": "SessionEndTime",
+  "type": "TIMESTAMP",
+  "mode": "NULLABLE"
+},
+ {
+   "description": "Bytes Downloaded",
+   "name": "bytesIn",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+ },
+ {
+   "description": "Bytes Uploaded",
+   "name": "bytesOut",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+ }
+]
+
